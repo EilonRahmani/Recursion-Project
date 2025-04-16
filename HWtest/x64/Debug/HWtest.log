@@ -1,0 +1,8 @@
+﻿  exe.c
+  main.c
+C:\Visual studio projects\HWtest\HWtest\main.c(28,14): warning C4013: 'checkDigits' undefined; assuming extern returning int
+C:\Visual studio projects\HWtest\HWtest\main.c(46,2): warning C4013: 'swapString' undefined; assuming extern returning int
+C:\Visual studio projects\HWtest\HWtest\main.c(66,15): warning C4013: 'sumPositiveInArray' undefined; assuming extern returning int
+C:\Visual studio projects\HWtest\HWtest\main.c(81,15): warning C4013: 'countOptions' undefined; assuming extern returning int
+  Generating Code...
+  HWtest.vcxproj -> C:\Visual studio projects\HWtest\HWtest\x64\Debug\HWtest.exe
